@@ -120,9 +120,9 @@ export default function Home() {
         Public Mint
       </button>
     );
-   };
+  };
 
-   return (
+  return (
     <div>
       <Head>
         <title>LW3Punks</title>
@@ -148,5 +148,5 @@ export default function Home() {
 
       <footer className={styles.footer}>Made with &#10084; by LW3Punks</footer>
     </div>
-   );
+  );
 }
